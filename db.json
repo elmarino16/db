@@ -1,4 +1,13 @@
-{
-  firsName: 'Amine',
-  currentCity: 'Paris'
-}
+[
+  {
+  firsName: "Amine",
+  currentCity: "Paris"
+  },
+  {
+  firsName: "Rami",
+  currentCity: "Paris"
+  },
+  {
+  firsName: "Mehdi",
+  currentCity: "Casablanca"
+  }
